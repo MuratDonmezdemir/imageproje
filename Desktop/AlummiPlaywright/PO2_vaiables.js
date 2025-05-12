@@ -7,7 +7,7 @@
 let firstname ="Murat" ; // string
 var lastname = "Dönmezdemir"; // string
 let age =44 ;// number 
-const İdNumber =12345678; // değiştirilemez 
+const İdNumber =12345678; // değiştirilemez
 console.log("adı :"+firstname);
 // PO2_variables.js dosyasını düzenlenmiş hali
 
